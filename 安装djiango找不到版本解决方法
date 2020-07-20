@@ -1,5 +1,5 @@
 使用pip 安装djiango 报错
-$ pip install djiango
+$ pip install django
 ERROR: Could not find a version that satisfies the requirement djiango (from versions: none)
 ERROR: No matching distribution found for djiango
 
