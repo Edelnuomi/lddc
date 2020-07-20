@@ -1,0 +1,8 @@
+使用pip 安装djiango 报错
+$ pip install djiango
+ERROR: Could not find a version that satisfies the requirement djiango (from versions: none)
+ERROR: No matching distribution found for djiango
+
+
+解决方法指定下载地址：
+pip install Django -i  http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
